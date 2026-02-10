@@ -72,7 +72,7 @@ const WorkerHome: React.FC<Props> = ({ onNavigate, news, currentUser, onLogout }
             icon={<CalendarDays size={28} />} 
             label="Agenda" 
             subLabel="CMNL" 
-            onClick={() => handleExternalApp('https://rcmagenda.vercel.app/#/home')}
+            onClick={() => onNavigate(AppView.APP_AGENDA)}
            />
            <MenuButton 
             icon={<Music size={28} />} 
@@ -112,7 +112,7 @@ const WorkerHome: React.FC<Props> = ({ onNavigate, news, currentUser, onLogout }
 
         {/* Footer User Info */}
         <div className="mt-auto w-full">
-           <div className="bg-[#3e2723]/60 rounded-xl p-4 border border-white/5 flex items-center justify-between backdrop-blur-sm">
+           <div className="bg-[#3e2723]/60 rounded-xl p-4 border border border-white/5 flex items-center justify-between backdrop-blur-sm">
               <div className="flex items-center space-x-3">
                  <div className="h-10 w-10 rounded-full bg-stone-700/50 flex items-center justify-center border border-white/10 relative">
                     <UserIcon size={18} className="text-stone-300" />

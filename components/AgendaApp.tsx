@@ -126,9 +126,9 @@ const AgendaApp: React.FC<Props> = ({ onBack }) => {
     setAiResponse('');
     
     try {
-      const apiKey = process.env.API_KEY || localStorage.getItem('GEMINI_API_KEY');
+      const apiKey = process.env.API_KEY;
       if (!apiKey) {
-        setAiResponse("Error: API Key no configurada. (Simulación: Ideas generadas para '" + aiPrompt + "')");
+        setAiResponse("Error: API Key no configurada en el entorno.");
         setIsLoadingAi(false);
         return;
       }
@@ -150,7 +150,7 @@ const AgendaApp: React.FC<Props> = ({ onBack }) => {
   // --- RENDERERS ---
 
   const renderDashboard = () => (
-    <div className="p-6 space-y-6 animate-in fade-in zoom-in duration-300">
+    <div className="p-6 space-y-6 animate-fade-in">
       <div className="bg-[#3E1E16] rounded-2xl p-6 shadow-xl border border-[#9E7649]/20 text-center">
         <h2 className="text-2xl font-serif font-bold text-white mb-2">Agenda Editorial</h2>
         <p className="text-[#9E7649] text-sm uppercase tracking-widest mb-6">Planificación de Contenidos RCM</p>
@@ -446,7 +446,7 @@ const AgendaApp: React.FC<Props> = ({ onBack }) => {
 
       {/* AI MODAL */}
       {showAiModal && (
-        <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-black/80 backdrop-blur-sm p-4 animate-in fade-in duration-200">
+        <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-black/80 backdrop-blur-sm p-4 animate-fade-in">
            <div className="bg-[#2C1B15] w-full max-w-md rounded-2xl border border-[#9E7649]/20 shadow-2xl flex flex-col max-h-[80vh]">
               <div className="flex justify-between items-center p-4 border-b border-white/5 bg-[#3E1E16] rounded-t-2xl">
                  <h3 className="text-white font-bold flex items-center gap-2"><Sparkles size={16} className="text-yellow-400"/> Asistente RCM</h3>
@@ -487,6 +487,16 @@ const AgendaApp: React.FC<Props> = ({ onBack }) => {
            </div>
         </div>
       )}
+      
+      <style>{`
+        @keyframes fadeIn {
+          from { opacity: 0; transform: scale(0.95); }
+          to { opacity: 1; transform: scale(1); }
+        }
+        .animate-fade-in {
+          animation: fadeIn 0.3s ease-out forwards;
+        }
+      `}</style>
     </div>
   );
 };

@@ -8,7 +8,7 @@ import UserManagement from './components/UserManagement';
 import { PlaceholderView, CMNLAppView } from './components/GenericViews';
 import { INITIAL_USERS, INITIAL_NEWS, INITIAL_HISTORY, INITIAL_ABOUT, getCurrentProgram } from './utils/scheduleData';
 import { Play, Pause, SkipBack, SkipForward, RefreshCw } from 'lucide-react';
-import AgendaApp from './agenda/AgendaApp';
+import AgendaApp from './components/AgendaApp';
 
 const App: React.FC = () => {
   const [currentView, setCurrentView] = useState<AppView>(AppView.LISTENER_HOME);
@@ -202,16 +202,7 @@ const App: React.FC = () => {
       
       // CMNL Apps
       case AppView.APP_AGENDA:
-        // Replaced generic view with specific Agenda Application
-        return <div className="h-full w-full relative">
-            <button 
-                onClick={handleBack} 
-                className="absolute top-4 left-4 z-[60] p-2 bg-black/40 text-white rounded-full backdrop-blur-md hover:bg-black/60 transition-colors"
-            >
-                <SkipBack size={20} className="rotate-180" /> {/* Using SkipBack as Back Arrow substitute if needed or just ArrowLeft */}
-            </button>
-            <AgendaApp />
-        </div>;
+        return <AgendaApp onBack={handleBack} />;
       case AppView.APP_MUSICA:
         return <CMNLAppView title="Música CMNL" type="music" onBack={handleBack} />;
       case AppView.APP_GUIONES:

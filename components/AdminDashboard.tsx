@@ -84,7 +84,7 @@ const AdminDashboard: React.FC<Props> = ({ onNavigate, news, users, currentUser,
               <AppButton 
                 icon={<CalendarDays size={20} />} 
                 label="Agenda" 
-                onClick={() => handleExternalApp('https://rcmagenda.vercel.app/#/home')} 
+                onClick={() => onNavigate(AppView.APP_AGENDA)} 
               />
               <AppButton 
                 icon={<Music size={20} />} 
