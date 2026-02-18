@@ -57,11 +57,27 @@ const getCategoryVector = (category: string, title: string): string => {
 // --- DATA MAPPING ---
 
 // Users from JSON
-export const INITIAL_USERS: User[] = (appData.users || []).map(u => ({
-  ...u,
-  role: u.role as 'admin' | 'worker' | 'listener', // Ensure type safety
-  classification: u.classification as any
-}));
+export const INITIAL_USERS: User[] = (appData.users || []).map(u => {
+  // Generar PIN automáticamente si no existe
+  let derivedPin = (u as any).pin;
+  
+  if (!derivedPin) {
+    if (u.username === 'admin') {
+      derivedPin = '0026';
+    } else if (u.password && u.password.length >= 4) {
+      // Para usuarios normales, usamos los últimos 4 dígitos de la contraseña
+      // (Ej: RadioCiudad0226 -> 0226)
+      derivedPin = u.password.slice(-4);
+    }
+  }
+
+  return {
+    ...u,
+    pin: derivedPin,
+    role: u.role as 'admin' | 'worker' | 'listener', // Ensure type safety
+    classification: (u as any).classification
+  };
+});
 
 // Content from JSON
 export const INITIAL_HISTORY = appData.historyContent || '';

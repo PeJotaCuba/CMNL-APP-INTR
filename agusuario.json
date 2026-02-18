@@ -1,0 +1,167 @@
+{
+  "users": [
+    {
+      "id": "admin-root",
+      "name": "Pedro José Reyes Acuña",
+      "username": "admin",
+      "pin": "RC0026",
+      "role": "admin",
+      "phone": "54413935",
+      "photo": ""
+    },
+    {
+      "id": "1770778839568-795277-0",
+      "name": "Lissell Fontelo Danta",
+      "username": "lissell",
+      "phone": "58841705",
+      "pin": "RadioCiudad0226",
+      "role": "escritor",
+      "photo": ""
+    },
+    {
+      "id": "1770778839568-875485-1",
+      "name": "Ernesto José Parra Muñoz",
+      "username": "ernesto",
+      "phone": "52137105",
+      "pin": "RadioCiudad0326",
+      "role": "escritor",
+      "photo": ""
+    },
+    {
+      "id": "1770778839568-974892-2",
+      "name": "Jorge Luis Rosales Sánchez",
+      "username": "jorge",
+      "phone": "55326426",
+      "pin": "RadioCiudad0426",
+      "role": "escritor",
+      "photo": ""
+    },
+    {
+      "id": "1770778839568-541916-3",
+      "name": "Susel López Jiménez",
+      "username": "susel",
+      "phone": "54778270",
+      "pin": "RadioCiudad0526",
+      "role": "escritor",
+      "photo": ""
+    },
+    {
+      "id": "1770778839568-984816-4",
+      "name": "Arnaldo Ernesto Torres García",
+      "username": "arnaldo",
+      "phone": "53924841",
+      "pin": "RadioCiudad0626",
+      "role": "escritor",
+      "photo": ""
+    },
+    {
+      "id": "1770778839568-571653-5",
+      "name": "Beatriz Ganado Arias",
+      "username": "beatriz",
+      "phone": "54777754",
+      "pin": "RadioCiudad0726",
+      "role": "escritor",
+      "photo": ""
+    },
+    {
+      "id": "1770778839568-430497-6",
+      "name": "Rosa Aracelis Chi Cedeño",
+      "username": "rosa",
+      "phone": "54275723",
+      "pin": "RadioCiudad0826",
+      "role": "escritor",
+      "photo": ""
+    },
+    {
+      "id": "1770778839568-290534-7",
+      "name": "Abel Girardo Guerrero Castro",
+      "username": "abel",
+      "phone": "59195045",
+      "pin": "RadioCiudad0926",
+      "role": "escritor",
+      "photo": ""
+    },
+    {
+      "id": "1770778839568-269577-8",
+      "name": "Maylén Leyanis Pérez Chi",
+      "username": "maylen",
+      "phone": "58702380",
+      "pin": "RadioCiudad1026",
+      "role": "escritor",
+      "photo": ""
+    },
+    {
+      "id": "1770778839568-163358-9",
+      "name": "Daylén Zalazar Maceo",
+      "username": "daylen",
+      "phone": "56540207",
+      "pin": "RadioCiudad1126",
+      "role": "escritor",
+      "photo": ""
+    },
+    {
+      "id": "1770778839568-592139-10",
+      "name": "Beatriz González Rondón",
+      "username": "beatrizgonzalez",
+      "phone": "58390181",
+      "pin": "RadioCiudad1226",
+      "role": "escritor",
+      "photo": ""
+    },
+    {
+      "id": "1770778839568-410801-11",
+      "name": "Johan Rey Escalona Naranjo",
+      "username": "johan",
+      "phone": "59996914",
+      "pin": "RadioCiudad1326",
+      "role": "escritor",
+      "photo": ""
+    },
+    {
+      "id": "1770778839568-185260-12",
+      "name": "Leipzig del Carmen Vázquez García",
+      "username": "leipzig",
+      "phone": "58401306",
+      "pin": "1426",
+      "role": "escritor",
+      "photo": ""
+    },
+    {
+      "id": "1770778839568-132458-13",
+      "name": "Rafael Traba Bordón",
+      "username": "rafael",
+      "phone": "52143905",
+      "pin": "RadioCiudad1526",
+      "role": "escritor",
+      "photo": ""
+    },
+    {
+      "id": "1770778839568-166644-14",
+      "name": "Caridad Aguilar Rosabal",
+      "username": "cary",
+      "phone": "56350265",
+      "pin": "1626",
+      "role": "escritor",
+      "photo": ""
+    },
+    {
+      "id": "1770778839568-761776-15",
+      "name": "José González Cobo",
+      "username": "jose",
+      "phone": "54205626",
+      "pin": "RadioCiudad1726",
+      "role": "escritor",
+      "photo": ""
+    },
+    {
+      "id": "1770778839568-090136-16",
+      "name": "Rosana María Fernández Verdecia",
+      "username": "rosana",
+      "phone": "53535793",
+      "pin": "RadioCiudad1826",
+      "role": "escritor",
+      "photo": ""
+    }
+  ],
+  "backupDate": "2026-02-11T03:01:32.685Z"
+}

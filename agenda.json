@@ -1,0 +1,395 @@
+{
+  "programs": [
+    {
+      "id": "lv1",
+      "name": "Buenos Días, Bayamo",
+      "days": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "time": "07:00",
+      "active": true,
+      "dailyData": {
+        "Febrero-semana-4-Lunes": {
+          "theme": "El Che al frente del Ministerio de Industrias: legado de gestión y visión industrial para Cuba.",
+          "ideas": "Inicio con la efeméride de 1961 cuando el Che asumió el Ministerio. Entrevista a un historiador económico sobre sus aportes: la motivación, la disciplina laboral, el trabajo voluntario. Segundo bloque: testimonio de un trabajador industrial bayamés jubilado que recuerde aquellos años. Tercero: un joven ingeniero industrial analiza la vigencia de aquellas ideas en el contexto actual. Incluir fragmentos de discursos del Che. Música de fondo: \"Hasta siempre\". Cierre con la vigencia de su ejemplo."
+        },
+        "Febrero-semana-4-Martes": {
+          "theme": "131 años del Grito de Baire: la dignidad cubana como bandera de lucha.",
+          "ideas": "Programa histórico. Un historiador narra los sucesos del 24 de febrero de 1895, el alzamiento simultáneo y el papel de Martí como máximo organizador. Conectar aquella gesta con la defensa actual de la soberanía, incluyendo la lucha contra flagelos como las drogas que amenazan la salud del pueblo. Incluir lecturas de proclamas independentistas y fragmentos del Diario de campaña de Martí. Música patriótica de fondo. Cierre con llamado a mantener la dignidad y el heroísmo cotidiano."
+        },
+        "Febrero-semana-4-Miércoles": {
+          "theme": "La Tarea Vida en Bayamo: adaptación al cambio climático en ecosistemas vulnerables.",
+          "ideas": "Entrevista a un especialista del CITMA Granma sobre la implementación del plan estatal en la provincia. Foco en zonas costeras como Pilón y Niquero, así como en el delta del Cauto. Explicar acciones concretas: reforestación de manglares, reubicación de asentamientos, educación ambiental. Reportaje sonoro desde un proyecto comunitario. Cifras de avance. Destacar que la Tarea Vida no es solo política, sino que requiere participación ciudadana activa."
+        },
+        "Febrero-semana-4-Jueves": {
+          "theme": "64 años de la primera vacunación antipolio: soberanía sanitaria y logros de la salud pública cubana.",
+          "ideas": "Programa conmemorativo y de orgullo. Un pediatra y un historiador de la salud repasan la campaña de 1962 que erradicó la polio en Cuba, hito de la medicina revolucionaria. Testimonio de una enfermera jubilada que participó. Conectar con el concepto de soberanía: producir vacunas propias, cobertura universal gratuita. Cierre con datos actuales sobre vacunación infantil en Bayamo y llamado a mantener las coberturas. Música infantil de fondo."
+        },
+        "Febrero-semana-4-Viernes": {
+          "theme": "Carlos Manuel de Céspedes: el Padre de la Patria y su legado en Bayamo.",
+          "ideas": "Programa histórico en el aniversario de su muerte en combate. Un historiador reconstruye sus últimos momentos en San Lorenzo. Repasar su obra: la abolición de la esclavitud en La Demajagua, el inicio de la guerra, su gobierno. Destacar su vínculo con Bayamo, donde residió y desde donde partió la Revolución. Lectura de fragmentos de sus cartas y proclamas. Música patriótica. Cierre con la vigencia de su ideal de independencia y justicia social."
+        },
+        "Febrero-semana-4-Sábado": {
+          "theme": "Enfermedades raras en Cuba: diagnóstico, atención y apoyo a las familias en Bayamo.",
+          "ideas": "Programa de sensibilización. Un especialista del Hospital Provincial explica qué son las enfermedades raras, cuáles tienen mayor incidencia en la región y cómo se diagnostican. Testimonio anónimo de una familia que convive con una de ellas. Un representante de MINSAP informa sobre los protocolos de atención y los medicamentos disponibles. Tono humano y esperanzador, destacando la labor del sistema de salud para garantizar atención a todos, sin exclusión."
+        }
+      }
+    },
+    {
+      "id": "lv2",
+      "name": "Todos en Casa",
+      "days": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "time": "10:00",
+      "active": true,
+      "dailyData": {
+        "Febrero-semana-4-Lunes": {
+          "theme": "Cómo organizar un presupuesto familiar mensual y cumplirlo.",
+          "ideas": "Guía práctica para la economía del hogar. Un contador o ama de casa con experiencia explica paso a paso: listar ingresos fijos, priorizar gastos esenciales (alimentación, servicios), destinar una porción al ahorro y controlar gastos hormiga. Incluir ejemplos de planillas sencillas. Testimonios de familias que lograron ordenar sus finanzas. Consejos para involucrar a todos los miembros, incluidos niños. Tono cercano, con sonidos de calculadora y papeles."
+        },
+        "Febrero-semana-4-Martes": {
+          "theme": "Alimentación para fortalecer el sistema inmunológico de niños y adultos.",
+          "ideas": "Programa de salud práctica. Una nutricionista recomienda alimentos locales que refuerzan defensas: cítricos (limón, naranja), vegetales verdes, ajo, cebolla, calabaza. Ofrece recetas sencillas y económicas: jugos naturales, caldos de verduras, ensaladas. Explica la relación entre nutrición y prevención de enfermedades. Incluye testimonios de madres. Sonidos de cocina y música suave. Mensaje: una buena alimentación es la primera medicina en el hogar."
+        },
+        "Febrero-semana-4-Miércoles": {
+          "theme": "Cómo construir un pequeño huerto en casa con materiales reciclados.",
+          "ideas": "Taller práctico de agricultura urbana. Mostrar cómo usar botellas plásticas, cajones y envases para sembrar condimentos (orégano, hierbabuena) y hortalizas (lechuga, rábano). Explicar preparación de sustrato, riego y cuidados. Invitar a una familia que ya tiene huerto casero. Beneficios: alimentos frescos, ahorro, satisfacción. Tono entusiasta, con sonidos de tierra, agua y música alegre. Ideal para realizar en familia."
+        },
+        "Febrero-semana-4-Jueves": {
+          "theme": "Conservas caseras de frutas de temporada: mermeladas y encurtidos.",
+          "ideas": "Taller culinario práctico para aprovechar cosechas y evitar desperdicios. Mostrar proceso de mermelada de mango o guayaba, y encurtido de vegetales. Explicar técnicas de esterilización, conservación y almacenamiento. Invitar a una cocinera experta. Beneficios: ahorro, alimentos sanos sin aditivos, disponibilidad fuera de temporada. Sonidos de cocción y envasado. Tono cálido, con música tradicional cubana. Ideal para compartir en familia."
+        },
+        "Febrero-semana-4-Viernes": {
+          "theme": "Decoración del hogar con plantas de interior: especies fáciles de cuidar.",
+          "ideas": "Guía práctica para embellecer el hogar. Un especialista en jardinería recomienda plantas resistentes como la cuna de moisés, el helecho, la sansevieria. Explica cuidados básicos: riego, luz, abono. Cómo propagarlas por esquejes. Beneficios: purifican el aire, aportan vida y color. Testimonios de amas de casa. Sonidos suaves y música instrumental. Tono relajado y creativo, invitando a conectar con la naturaleza dentro de casa."
+        }
+      }
+    },
+    {
+      "id": "lv3",
+      "name": "Noticiero (RCM Noticias)",
+      "days": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "time": "11:00",
+      "active": true,
+      "dailyData": {
+        "Febrero-semana-4-Lunes": {
+          "theme": "Balance del sector industrial en Bayamo: logros y proyecciones.",
+          "ideas": "Reportaje desde una fábrica local (textil, alimenticia o de materiales de construcción). Entrevista a su director sobre producciones, fuerza laboral y desafíos. Datos estadísticos del sector en la provincia. Incluir declaraciones de trabajadores destacados. Segunda nota: inversiones planificadas para 2026. Tono objetivo, mostrando avances y obstáculos. Cierre con la importancia de la industria para la soberanía y el empleo."
+        },
+        "Febrero-semana-4-Martes": {
+          "theme": "Conmemoración del 24 de Febrero en Bayamo: actos patrióticos y reflexión ciudadana.",
+          "ideas": "Cobertura especial desde el parque \"Céspedes\" y otros espacios simbólicos. Reportaje sobre la ceremonia de izaje de la bandera y ofrendas florales. Entrevistas a historiadores, veteranos de lucha, estudiantes y autoridades. Segunda nota: balance del concurso histórico escolar sobre la gesta del 95. Tono solemne y cívico, con marchas patrióticas de fondo. Destacar la continuidad del sentimiento independentista en las nuevas generaciones."
+        },
+        "Febrero-semana-4-Miércoles": {
+          "theme": "Evaluación de la Tarea Vida en Bayamo: acciones cumplidas y metas pendientes.",
+          "ideas": "Reportaje de balance con enfoque local. Entrevista al delegado municipal del CITMA. Presentar tres líneas: 1) protección de cuencas y ríos; 2) educación ambiental en escuelas; 3) proyectos de energía renovable en comunidades. Incluir opiniones de ciudadanos sobre cambios percibidos. Datos comparativos con años anteriores. Tono objetivo, destacando logros y señalando desafíos (falta de recursos, cultura ciudadana)."
+        },
+        "Febrero-semana-4-Jueves": {
+          "theme": "Campaña de vacunación infantil en Bayamo: coberturas y logística.",
+          "ideas": "Reportaje desde un policlínico durante jornada de vacunación. Entrevista a madres, enfermeras y al director municipal de Salud. Datos actualizados sobre coberturas por vacunas. Explicar el cronograma del año. Segunda nota: cómo se conservan y distribuyen las vacunas en el territorio. Tono informativo y tranquilizador, destacando la seguridad y efectividad del programa. Incluir llamado a cumplir con el calendario."
+        },
+        "Febrero-semana-4-Viernes": {
+          "theme": "Homenajes en Bayamo por el aniversario de la caída de Céspedes.",
+          "ideas": "Cobertura desde el parque \"Céspedes\" y otros sitios emblemáticos. Reportaje sobre la peregrinación hasta el monumento, ofrendas florales, presencia de autoridades y pueblo. Entrevistas a historiadores, estudiantes y ciudadanos sobre el significado del Padre de la Patria. Incluir imágenes sonoras de los actos. Segunda nota: actividades culturales relacionadas. Tono solemne y patriótico, destacando la memoria viva del iniciador de la independencia."
+        },
+        "Febrero-semana-4-Sábado": {
+          "theme": "Actividades por el Día Mundial de las Enfermedades Raras en Bayamo.",
+          "ideas": "Cobertura de las jornadas de información y sensibilización organizadas en policlínicos y la universidad. Entrevista a médicos, investigadores y familiares. Reportaje sobre la labor de la Asociación Cubana de Personas con Enfermedades Poco Frecuentes. Datos sobre el registro nacional de pacientes. Tono informativo y solidario, visibilizando una realidad poco conocida y promoviendo la empatía y el apoyo comunitario."
+        }
+      }
+    },
+    {
+      "id": "lv4",
+      "name": "Arte Bayamo",
+      "days": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "time": "11:15",
+      "active": true,
+      "dailyData": {
+        "Febrero-semana-4-Lunes": {
+          "theme": "El secuestro de Fangio llevado al cine: recreaciones del hecho en la filmografía cubana.",
+          "ideas": "Lunes es de audiovisuales. Recordar el audaz secuestro del piloto argentino por el M-26-7 en 1958. Analizar cómo el ICAIC ha recreado este hecho en documentales o películas. Invitar a un crítico de cine para comentar fragmentos sonoros. Discutir la operación como acción de propaganda revolucionaria y su impacto mediático. Usar sonidos de autos de carrera de la época. Cerrar con la relación entre deporte, política y cultura."
+        },
+        "Febrero-semana-4-Martes": {
+          "theme": "Iconografía de las guerras por la independencia: el arte plástico como memoria de la nación.",
+          "ideas": "Martes es de artes plásticas. Recorrido por pinturas y grabados que retratan las gestas independentistas (Esteban Valderrama, Armando Menocal). Un crítico de arte analiza el simbolismo patriótico, la representación de los mambises y el paisaje cubano. Incluir obras de artistas bayameses que abordaron el tema independentista. Descripciones detalladas de las piezas. Música de fondo con danzones y pasodobles. Conectar arte e identidad nacional a través de la memoria visual de nuestras guerras."
+        },
+        "Febrero-semana-4-Miércoles": {
+          "theme": "Poesía y naturaleza: versos cubanos dedicados al paisaje y la defensa del entorno.",
+          "ideas": "Miércoles es de literatura. Selección de poemas de autores cubanos que han cantado a la naturaleza: desde la exaltación del campo en la poesía de José Martí hasta la ecopoesía contemporánea. Un poeta local lee fragmentos. Un crítico literario analiza la evolución de la mirada ecológica en la lírica. Intercalar con sonidos de la naturaleza (pájaros, ríos, viento). Reflexión final sobre la palabra como acto de defensa de la tierra."
+        },
+        "Febrero-semana-4-Jueves": {
+          "theme": "Canciones para niños: la banda sonora de la infancia cubana.",
+          "ideas": "Jueves es de música. Recorrido por canciones infantiles emblemáticas de la TV y la radio cubanas (\"La familia de las vocales\", \"Los animales\", temas de Teresita Fernández). Un musicólogo analiza su valor educativo y musical. Invitar a una maestra o narradora que las use en su trabajo. Reproducir fragmentos. Conectar con la campaña de vacunación como parte del cuidado de la infancia. Ambiente nostálgico y alegre, ideal para recordar la propia niñez."
+        },
+        "Febrero-semana-4-Viernes": {
+          "theme": "La figura de Céspedes en el teatro y la literatura cubana.",
+          "ideas": "Viernes es de artes escénicas. Recorrido por obras teatrales y literarias que han abordado la vida de Céspedes. Un crítico analiza representaciones del prócer en diferentes épocas. Lectura dramatizada de un monólogo sobre Céspedes, a cargo de un actor local. Comentar cómo el arte ha contribuido a construir la imagen del Padre de la Patria. Ambiente solemne, con música de fondo teatral."
+        }
+      }
+    },
+    {
+      "id": "lv5",
+      "name": "Parada Joven",
+      "days": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "time": "12:30",
+      "active": true,
+      "dailyData": {
+        "Febrero-semana-4-Lunes": {
+          "theme": "Jóvenes en la industria bayamesa: empleos, desafíos y oportunidades de desarrollo.",
+          "ideas": "Encuentro con trabajadores jóvenes de distintas industrias locales (mecánica, alimentos, textil). Preguntar sobre sus motivaciones, condiciones laborales, salario y expectativas de crecimiento. Un directivo de la Empresa Industrial de Bayamo habla sobre programas de formación y estímulo para jóvenes. Segmento interactivo: ¿qué carrera industrial elegirían? Tono realista, mostrando el sector como opción de vida digna y necesaria para el país."
+        },
+        "Febrero-semana-4-Martes": {
+          "theme": "La independencia en el siglo XXI: ¿qué significa ser libre y soberano para los jóvenes hoy?",
+          "ideas": "Debate abierto con estudiantes de preuniversitario y universitario. Preguntas guía: ¿Qué valor le dan a la independencia conquistada en 1895 y 1959? ¿Cuáles son las principales amenazas actuales a la soberanía (económicas, culturales, comunicacionales)? ¿Cómo se defiende la patria desde el aula, el barrio, las redes sociales? Moderador garantiza respeto y pluralidad. Segmento de mensajes de oyentes jóvenes. Tono reflexivo y participativo."
+        },
+        "Febrero-semana-4-Miércoles": {
+          "theme": "Activismo ambiental juvenil: pequeñas acciones para proteger el entorno en Bayamo.",
+          "ideas": "Presentar colectivos juveniles que trabajan por el medio ambiente desde lo cotidiano. Entrevista a miembros de la Asociación Hermanos Saíz con proyectos de arte y ecología. Reportaje sonoro sobre una jornada vecinal de limpieza en el río Bayamo. Un estudiante de ciencias explica cómo investiga especies locales. Segmento interactivo: ¿qué pequeña acción puedes hacer hoy por tu barrio? Música contemporánea. Tono optimista, demostrando que el cambio empieza con gestos simples."
+        },
+        "Febrero-semana-4-Jueves": {
+          "theme": "Carreras de la salud: ¿por qué estudiar medicina, enfermería o estomatología en Bayamo?",
+          "ideas": "Orientación vocacional para jóvenes. Entrevista a estudiantes y profesores de las Ciencias Médicas en Bayamo. Hablar del plan de estudio, las prácticas en hospitales y policlínicos, las especialidades y la inserción laboral. Testimonios de jóvenes que ya ejercen. Destacar el prestigio social de estas profesiones y la posibilidad de servir a la comunidad. Segmento de preguntas. Tono motivador, con música instrumental suave."
+        },
+        "Febrero-semana-4-Viernes": {
+          "theme": "Carlos Manuel de Céspedes: su joven generación en Bayamo.",
+          "ideas": "Explorar la figura de Céspedes desde su juventud y la de quienes lo rodearon. Un historiador habla de sus hijos (Carlos Manuel, Oscar) y los jóvenes que se unieron a él en La Demajagua. Lectura de cartas juveniles de la época. Conectar con la juventud actual: ¿qué valores de aquella generación (audacia, compromiso, sacrificio) deberían tener los jóvenes de hoy? Invitar a estudiantes a reflexionar. Música patriótica de fondo. Tono intergeneracional, rescatando el legado joven del Padre de la Patria."
+        }
+      }
+    },
+    {
+      "id": "lv6",
+      "name": "Hablando con Juana",
+      "days": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "time": "13:30",
+      "active": true,
+      "dailyData": {
+        "Febrero-semana-4-Lunes": {
+          "theme": "Infecciones de transmisión sexual: prevención, síntomas y dónde acudir en Bayamo.",
+          "ideas": "Lunes es de sexualidad. Una especialista en epidemiología o ginecología explica las ITS más comunes en la región, sus síntomas y formas de prevención (uso correcto del condón, vacunas disponibles). Desmonta mitos. Informa sobre dónde realizar pruebas gratuitas en Bayamo (policlínicos, Centro de Higiene) y la importancia del diagnóstico temprano. Tono claro y sin tabúes, enfatizando la responsabilidad individual y de pareja. Espacio para preguntas anónimas."
+        },
+        "Febrero-semana-4-Martes": {
+          "theme": "Día del Trabajador de las Comunicaciones: la informatización de la sociedad y los servicios en Bayamo.",
+          "ideas": "Jueves es de Historia, Política, Economía y Sociedad local (aunque se adelanta por efeméride). Entrevista al director de ETECSA en Granma y a un joven programador. Balance de la conectividad en el municipio: cobertura de datos móviles, wifi en espacios públicos, proyectos de informatización en trámites. Desafíos y potencialidades. Incluir testimonio de un adulto mayor aprendiendo a usar el móvil. Tono optimista y práctico, mostrando cómo la tecnología mejora la vida cotidiana."
+        },
+        "Febrero-semana-4-Miércoles": {
+          "theme": "Trámites para la obtención del pasaporte cubano: requisitos actualizados.",
+          "ideas": "Miércoles es día variado. Un funcionario de la Dirección de Identificación y Migración explica paso a paso: documentos necesarios, costo, plazos de entrega, vigencia. Dónde acudir en Bayamo y horarios. Responde preguntas frecuentes (menores de edad, pasaportes vencidos, prórrogas). Informa sobre servicios online disponibles. Tono claro y práctico, ayudando a evitar demoras y confusiones. Incluir experiencias de personas que realizaron el trámite recientemente."
+        },
+        "Febrero-semana-4-Jueves": {
+          "theme": "Estrategias para mejorar la comunicación en la pareja.",
+          "ideas": "Jueves es de Historia, Política, Economía y Sociedad (enfoque social). Un psicólogo especializado en terapia de pareja ofrece pautas: escucha activa, expresión asertiva de sentimientos, manejo de conflictos sin agresión, importancia del tiempo de calidad. Incluye dramatizado breve de una discusión y su resolución constructiva. Espacio para preguntas anónimas. Tono cálido y práctico, con música romántica suave. Mensaje: la comunicación se entrena y mejora la convivencia."
+        },
+        "Febrero-semana-4-Viernes": {
+          "theme": "Mujeres campesinas: su rol en la producción de alimentos y la preservación de tradiciones.",
+          "ideas": "Viernes es variado, sobre la vida y sus reflexiones. Visita sonora a una finca de una campesina en las afueras de Bayamo. Entrevista sobre su trabajo diario, la organización de la Cooperativa, la transmisión de saberes (recetas, cultivos) a hijas y nietas. Desafíos que enfrenta como mujer en el campo. Su visión sobre el futuro. Incluir sonidos de animales, campo y cocina. Tono de admiración y reconocimiento a estas guardianas de la soberanía alimentaria y la cultura rural."
+        }
+      }
+    },
+    {
+      "id": "s1",
+      "name": "Buenos Días, Bayamo",
+      "days": [
+        "Sábado"
+      ],
+      "time": "07:00",
+      "active": true,
+      "dailyData": {}
+    },
+    {
+      "id": "s2",
+      "name": "Noticiero",
+      "days": [
+        "Sábado"
+      ],
+      "time": "11:00",
+      "active": true,
+      "dailyData": {}
+    },
+    {
+      "id": "s3",
+      "name": "Sigue a tu ritmo",
+      "days": [
+        "Sábado"
+      ],
+      "time": "11:15",
+      "active": true,
+      "dailyData": {
+        "Febrero-semana-4-Sábado": {
+          "theme": "Autoestima y aceptación personal: claves para adolescentes.",
+          "ideas": "Abordar la construcción de una imagen positiva de uno mismo. Una psicóloga adolescente explica qué es la autoestima, cómo se forma y su impacto en la salud mental. Ofrece ejercicios prácticos: diario de logros, reconocer cualidades propias, aceptar imperfecciones. Incluye testimonios de jóvenes. Segmento interactivo con preguntas. Música moderna y relajante. Mensaje central: quererse a uno mismo es el primer paso para relacionarse sanamente con los demás."
+        }
+      }
+    },
+    {
+      "id": "s4",
+      "name": "Al son de la radio",
+      "days": [
+        "Sábado"
+      ],
+      "time": "13:30",
+      "active": true,
+      "dailyData": {
+        "Febrero-semana-4-Sábado": {
+          "theme": "El son en la trova tradicional: canciones que hablan del amor y el desamor.",
+          "ideas": "Programa musical especializado. Selección de sones clásicos de la trova (Sindo Garay, María Teresa Vera, Ñico Saquito) que abordan el amor, la nostalgia y el desengaño. Un musicólogo comenta letras y contextos. Invitar a un trovador local para interpretar una pieza en vivo. Ambiente íntimo y romántico, ideal para la noche del sábado. Reproducir fragmentos de alta calidad sonora. Cerrar con un tema emblemático que invite a soñar."
+        }
+      }
+    },
+    {
+      "id": "d1",
+      "name": "Boletín",
+      "days": [
+        "Domingo"
+      ],
+      "time": "07:00",
+      "active": true,
+      "dailyData": {}
+    },
+    {
+      "id": "d2",
+      "name": "Cómplices",
+      "days": [
+        "Domingo"
+      ],
+      "time": "07:05",
+      "active": true,
+      "dailyData": {
+        "Febrero-semana-4-Domingo": {
+          "theme": "Juegos de mesa en familia: beneficios y opciones para compartir en casa.",
+          "ideas": "Programa lúdico y educativo. Un pedagogo explica los beneficios cognitivos y sociales de los juegos de mesa (ajedrez, dominó, parchís, naipes). Recomendar juegos según edades. Invitar a una familia que tenga tradición de jugar junta. Proponer un torneo familiar dominical. Incluir sonidos de fichas, cartas y risas. Tono divertido y cálido, destacando que jugar une y enseña. Música alegre de fondo."
+        }
+      }
+    },
+    {
+      "id": "d3",
+      "name": "Coloreando Melodías",
+      "days": [
+        "Domingo"
+      ],
+      "time": "09:00",
+      "active": true,
+      "dailyData": {
+        "Febrero-semana-4-Domingo": {
+          "theme": "Canciones para despedir febrero y recibir marzo con alegría.",
+          "ideas": "Selección musical infantil con temas sobre el cambio de mes, la llegada de la primavera (en el hemisferio norte) y el inicio de nuevas actividades. Incluir canciones cubanas y latinoamericanas. Un narrador cuenta un cuento breve sobre el ciclo de las estaciones. Actividad: que los niños dibujen cómo imaginan marzo. Música alegre, participativa, con invitación a cantar y bailar."
+        }
+      }
+    },
+    {
+      "id": "d4",
+      "name": "Alba y crisol",
+      "days": [
+        "Domingo"
+      ],
+      "time": "09:30",
+      "active": true,
+      "dailyData": {
+        "Febrero-semana-4-Domingo": {
+          "theme": "La caída en combate de Carlos Manuel de Céspedes.",
+          "ideas": "Reconstrucción histórica de los últimos momentos del Padre de la Patria en San Lorenzo, el 27 de febrero de 1874. Un historiador narra el contexto, la delación, el enfrentamiento y su muerte. Lectura de partes de guerra españoles y cartas de sus compañeros. Significado de su pérdida para la causa independentista. Visita sonora al sitio histórico en la Sierra Maestra. Música fúnebre y patriótica. Reflexión sobre el precio de la libertad y la vigencia de su ejemplo de entrega total."
+        }
+      }
+    },
+    {
+      "id": "d5",
+      "name": "Estación 95.3",
+      "days": [
+        "Domingo"
+      ],
+      "time": "10:00",
+      "active": true,
+      "dailyData": {
+        "Febrero-semana-4-Domingo": {
+          "theme": "Grandes éxitos de la música cubana para comenzar marzo.",
+          "ideas": "Programa musical de apertura de mes. Selección de temas clásicos y contemporáneos que inviten a la alegría y el optimismo: Benny Moré, Celia Cruz, Los Van Van, Buena Fe. El conductor presenta cada tema con una breve anécdota. Ambiente festivo, ideal para la mañana del domingo. Sonido de alta calidad. Invitar a los oyentes a pedir canciones para la semana."
+        }
+      }
+    },
+    {
+      "id": "d6",
+      "name": "Palco de Domingo",
+      "days": [
+        "Domingo"
+      ],
+      "time": "13:30",
+      "active": true,
+      "dailyData": {
+        "Febrero-semana-4-Domingo": {
+          "theme": "Cartelera cultural de marzo en Bayamo: exposiciones, conciertos y eventos destacados.",
+          "ideas": "Primer domingo de mes, por tanto, cartelera cultural mensual. El director municipal de Cultura presenta los principales eventos de marzo: exposiciones en la Galería de Arte, conciertos en la Casa de la Trova, estrenos teatrales, festivales, fechas conmemorativas (8M, Día de la Prensa). Incluir fechas, horarios, lugares y costos. Recomendaciones para el disfrute familiar. Tono promocional y animado, invitando a planificar un mes lleno de cultura en Bayamo.\n\n"
+        }
+      }
+    }
+  ],
+  "efemerides": {
+    "Octubre": [
+      {
+        "day": 10,
+        "event": "1868",
+        "description": "Levantamiento armado en La Demajagua encabezado por Carlos Manuel de Céspedes."
+      },
+      {
+        "day": 20,
+        "event": "1868",
+        "description": "Día de la Cultura Nacional: Se entona por primera vez el Himno de Bayamo."
+      }
+    ]
+  },
+  "conmemoraciones": {
+    "Octubre": [
+      {
+        "day": 10,
+        "national": "Inicio de las Guerras de Independencia",
+        "international": ""
+      },
+      {
+        "day": 20,
+        "national": "Día de la Cultura Cubana",
+        "international": ""
+      }
+    ]
+  },
+  "dayThemes": {
+    "Febrero-semana-4-Lunes": "Legado de Fidel Castro – Aniversario de la creación del Ministerio de Industrias (1961) y del secuestro de Fangio (1958).",
+    "Febrero-semana-4-Martes": "Lucha contra las Drogas – Aniversario del Grito de Baire (1895), inicio de la Guerra Necesaria.",
+    "Febrero-semana-4-Miércoles": "Tarea Vida (Medio Ambiente)",
+    "Febrero-semana-4-Jueves": "Soberanía Alimentaria – Aniversario de la primera campaña de vacunación antipolio (1962).",
+    "Febrero-semana-4-Viernes": "Adelanto de las Mujeres – Aniversario de la caída en combate de Carlos Manuel de Céspedes (1874).",
+    "Febrero-semana-4-Sábado": "Ciencia y Salud – Día Mundial de las Enfermedades Raras.",
+    "Febrero-semana-4-Domingo": "Cultura y Tradición"
+  },
+  "backupDate": "2026-02-18T11:14:41.004Z"
+}

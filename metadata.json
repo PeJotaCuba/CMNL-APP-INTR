@@ -1,5 +1,8 @@
 {
-  "name": "CMNL App",
-  "description": "Aplicación oficial de Radio Ciudad Monumento - La voz de la segunda villa cubana.",
-  "requestFramePermissions": []
+  "name": "RCM Agenda",
+  "description": "Sistema de gestión editorial y planificación de contenidos para Radio Ciudad Monumento, con visualización de efemérides, conmemoraciones y herramientas de redacción asistida por IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
 }

@@ -20,9 +20,10 @@ const PublicLanding: React.FC<Props> = ({ onNavigate, users, onLoginSuccess }) =
     setError('');
     
     // Find user by username OR mobile
+    // Allow login with password OR pin
     const user = users.find(u => 
         (u.username.toLowerCase() === identity.toLowerCase() || u.mobile === identity) && 
-        u.password === password
+        (u.password === password || (u.pin && u.pin === password))
     );
 
     if (user) {
@@ -84,7 +85,7 @@ const PublicLanding: React.FC<Props> = ({ onNavigate, users, onLoginSuccess }) =
                 type={showPassword ? "text" : "password"} 
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
-                placeholder="Contraseña" 
+                placeholder="Contraseña o PIN" 
                 className="w-full pl-12 pr-12 py-3.5 rounded-lg border border-[#E8DCCF] bg-white text-[#4A3B32] focus:ring-2 focus:ring-[#8B5E3C] focus:border-transparent outline-none transition-all placeholder:text-[#8C7B70]/70"
               />
               <button 
